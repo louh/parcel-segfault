@@ -1,0 +1,18 @@
+{
+  "name": "parcel-segfault",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "22.7.0",
+    "npm": "10.8.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
